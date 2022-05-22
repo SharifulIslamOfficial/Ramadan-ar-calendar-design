@@ -1,0 +1,230 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    display: 100%;
+}
+                        /* main */
+.main{
+background-color: wheat;
+margin: 20px 20px;
+}
+                        /* main-head */
+.main-head{
+height: 600px;
+background-color: bisque;
+}
+.head{
+    height: 170px;
+}
+.headding h2{
+    font-size: 25px;
+    margin: 0px 10px;
+}
+.headding h3{
+    font-size: 20px;
+    margin: 0px 35px;
+}
+.headding img{
+    height: 100px;
+    width: 150px;
+    margin-top: -45px;
+    margin-left:1000px;
+}
+p{
+    font-size: 15px;
+    margin-top: 60px;
+    margin-left: 130px;
+}
+#one{
+    font-size: 15px;
+    margin-top: 5px;
+    margin-left: 165px;
+    
+}
+.menu{
+    margin-left:950px ;
+    margin-top: -50px;
+}
+.logo img{
+    height:450px;
+    width: 850px;
+    margin-top: -35px;
+    margin-left: 150px;
+    margin-bottom: 5px;
+}
+                        /* body-head */
+.body-head .hear th{
+    width: 500px;
+}
+.hear{
+    margin-top: 450px;
+    font-size: 35px;
+    color:black;
+    background-color: bisque;
+}
+.body-head th{
+    height: 70px;
+    width: 450px;
+    font-size: 35px;
+    
+    color:black;
+    background-color: bisque;
+}
+.form{
+
+    background-color: bisque;
+    border:1px solid none;
+}
+                        /* body-one */
+.body-one th{
+    width: 900px;
+    font-size: 45px;
+    text-align: center;
+    border-color: mistyrose;
+}
+.body-one td{
+    width: 900px;
+    font-size: 30px;
+    background-color: bisque;
+    text-align: center;
+    border-color: mistyrose;
+}
+                        /* body-two */
+.body-two th{
+    width: 900px;
+    font-size: 45px;
+    text-align: center;
+    border-color: mistyrose;
+}
+.body-two td{
+    width: 900px;
+    font-size: 30px;
+    background-color: bisque;
+    text-align: center;
+    border-color: mistyrose;
+}
+                        /* body-three */
+.body-three th{
+    width: 900px;
+    font-size: 45px;
+    border-color: mistyrose;
+    text-align: center;
+}
+.body-three td{
+    width: 900px;
+    font-size: 30px;
+    background-color: bisque;
+    text-align: center;
+    border-color: mistyrose;
+}
+                        /* footer */
+.footer{
+    width: 100%;
+    margin-top: 20px;
+    background-color: bisque;
+}
+                        /* footer-one */
+.footer-one{
+    height:620px;
+    width: 13%;
+    float: left;
+    margin-left: 5px;
+    padding-left: 5px;
+    text-align: left;
+    background-color: bisque;
+}
+.footer-one h3{
+    height: 50px;
+    font-size: 25px;
+}
+.footer-one p{
+    text-align: left;
+    font-size: 18px;
+    margin-top: 70px;
+    margin-left: 5px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+
+}
+                        /* footer-two*/
+.footer-two{
+    height:620px;
+    width: 33.5%;
+    float: left;
+    background-color: bisque;
+}
+.footer-two h3{
+    font-size:20px;
+    height:30px;
+    padding: 3px;
+    text-align: center;
+}
+.footer-two th{
+    height: 20px;
+    font-size: 18px;
+    text-align:center;
+    padding: 3px;
+}
+.footer-two td{
+ text-align: center;
+}
+                        /* footer-three */
+.footer-three p{
+    width: 6.5%;
+    float: left;
+    height:620px;
+    text-align: center;
+    padding-top: 110px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: bisque;
+}
+                        /* footer-four*/
+
+.footer-four{
+    height:620px;
+    width: 33.5%;
+    float: left;
+    background-color: bisque;
+}
+ .footer-four h3{
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    padding: 3px;
+}
+.footer-four th{
+    height: 25px;
+    font-size: 18px;
+    text-align: center;
+    padding: 3px;
+}
+.footer-four td{
+    text-align: center;
+    height: 77.5px;
+}
+                        /* footer-five */
+.footer-five{
+    height: 620px;
+    width: 13%;
+    float: left;
+    text-align: right;
+    background-color: bisque;
+}
+.footer-five h3{
+    height: 60px;
+    font-size: 25px;
+    margin-left: 10px;
+}
+.footer-five p{
+    text-align: right;
+    font-size: 18px;
+    margin-top: 70px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    padding-right: 5px;
+}
